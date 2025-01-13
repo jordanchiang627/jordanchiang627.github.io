@@ -6,22 +6,23 @@ Line break. That is probably my favorite tool I use it lot in my html files espe
 
 
 ## Section 1
-**bolding this statement for no reason** <br> </br> and now I want to include a line break.
+**bolding this statement for no reason** <br> </br> and now I want to include a line break. *italic statement*
 
 ## Section 2
 One or several paragraphs. Line break <br></br>Line break<br></br><br></br>double line break
 ### (Optional) Subsection 1
-One or several paragraphs.
-### (Optional) Subsection 2
-One or several paragraphs.
+Here is a grocery list <br></br>
+Banana<br></br>
+Chicken<br></br>
+Is there a quick key for line breaks?<br></br>
 
 ## Section 3
 One or several paragraphs for subsection 3.
 
 ## See also
-- [Resource 1](url)
-- [Resource 2](url)
-- [Resource 3](url)
+- [Wikipedia](https://www.wikipedia.org/)
+- [YouTube](https://www.youtube.com/)
+- [My Tableau](https://public.tableau.com/app/profile/jordan.chiang6902/vizzes)
 
 ## References
 1. Reference 1
