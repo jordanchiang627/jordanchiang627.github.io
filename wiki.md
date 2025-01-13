@@ -7,6 +7,8 @@ Line break. That is probably my favorite tool I use it lot in my html files espe
 
 ## Section 1
 **bolding this statement for no reason** <br> </br> and now I want to include a line break. *italic statement*
+![](/Users/jordan/Desktop/Screen Shot 2025-01-13 at 2.34.15 PM.png)<br></br>
+Proof that I starred the geog328 repo
 
 ## Section 2
 One or several paragraphs. Line break <br></br>Line break<br></br><br></br>double line break
